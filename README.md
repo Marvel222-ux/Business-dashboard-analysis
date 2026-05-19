@@ -43,11 +43,11 @@ The dataset contains:
 - Product(Table) was order the most.
 
 ## Preview
-[Dashboard Screenshot].(https://github.com/Marvel222-ux/Business-dashboard-analysis/blob/main/business%20dashboard1.png)
+[Dashboard Screenshot](https://github.com/Marvel222-ux/Business-dashboard-analysis/blob/main/business%20dashboard1.png)
 
 > click the image above to see a preview of the final dashboard.
 ## Author
 Name: KILANKO RACHEAL ABIMBOLA, Aspiring Data Analyst
 
-# Business-dashboard-analysis
-This contain a beginner-friendly sales analytics done in Excel
+
+
