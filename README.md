@@ -47,8 +47,7 @@ The dataset contains:
 
 > click the image above to see a preview of the final dashboard.
 ## Author
-Name: KILANKO RACHEAL ABIMBOLA
-Role: Aspiring Data Analyst
+Name: KILANKO RACHEAL ABIMBOLA, Aspiring Data Analyst
 
 # Business-dashboard-analysis
 This contain a beginner-friendly sales analytics done in Excel
